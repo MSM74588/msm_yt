@@ -12,6 +12,12 @@ Terminal User Interface Based(TUI)
 Downloads Video from the specified link of the video to a custom directory 
 ### Installation <br />
   ```pip install git+https://github.com/MSM74588/msm_yt```
+  ### Usage <br />
+  ```python -m msmyt``` <br />
+  OR <br />
+  ```python3 -m msmyt``` <br />
+  
+  
 
 ## Authors
 
