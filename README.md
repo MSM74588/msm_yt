@@ -10,6 +10,9 @@ Terminal User Interface Based(TUI)
 
 #### Functioning
 Downloads Video from the specified link of the video to a custom directory 
+###Installation
+```pip install git+https://github.com/MSM74588/msm_yt```
+
 ## Authors
 
 -🤗 [@MandraSaptak Mandal](https://www.github.com/MSM74588)
