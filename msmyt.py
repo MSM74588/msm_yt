@@ -15,10 +15,6 @@ import os
 
 osSleep = None
     # in Windows, prevent the OS from sleeping while we run
-if os.name == 'nt':
-        osSleep = WindowsInhibitor()
-        osSleep.inhibit()
-
     # do slow stuff
 
 if osSleep:
